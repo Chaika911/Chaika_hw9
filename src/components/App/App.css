@@ -13,6 +13,13 @@
   }
 }
 
+.green {
+  background-color: lawngreen;
+}
+.red{
+  background-color: lightcoral;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
